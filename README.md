@@ -2,6 +2,8 @@
 "A machine learning project to predict customer churn, analyze contributing factors, and provide actionable insights for retention."
 # Customer Churn Prediction
 
+<src img="" width=800>
+
 ## Overview
 
 This project predicts customer churn using machine learning techniques. Churn occurs when a customer stops using a company's product or service. Predicting churn helps businesses retain customers, optimize resources, and improve customer satisfaction.
