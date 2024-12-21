@@ -1,6 +1,5 @@
 # Customer_Churn_Prediction
 "A machine learning project to predict customer churn, analyze contributing factors, and provide actionable insights for retention."
-# Customer Churn Prediction
 
 <img src="https://github.com/rpjinu/Customer_Churn_Prediction/blob/main/image%20_customer_churn.jpg" width=800>
 
