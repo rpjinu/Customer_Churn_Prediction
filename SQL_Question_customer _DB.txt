@@ -1,0 +1,30 @@
+1. Total number of customers.
+
+2. Churn rate and the percentage of customers who churned.
+
+3. Number of customers by gender.
+
+4. Average tenure of customers.
+
+5. Percentage of senior citizens among the customers.
+
+6. Most popular payment method used by customers.
+
+7. Churn rate by contract type.
+
+8. Impact of InternetService type on churn rate.
+
+9. Churn rate categorized by monthly charges range (e.g., Low, Medium, High).
+
+10. Number of customers using each type of Internet service.
+
+11. Distribution of customers based on streaming services usage (StreamingTV and StreamingMovies).
+
+12. Average monthly charges for customers based on contract type.
+
+13. Top 5 reasons for churn based on correlated attributes like Contract or InternetService.
+
+14. Relationship between tenure and average monthly charges for churned customers.
+
+15. Total revenue lost due to churn.
+
